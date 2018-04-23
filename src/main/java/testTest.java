@@ -10,4 +10,8 @@ public class testTest {
 		Assert.assertEquals(1, 1);
 	}
 
+	@Test
+	public void testDivide2() {
+		Assert.assertEquals(2, 2);
+	}
 }
