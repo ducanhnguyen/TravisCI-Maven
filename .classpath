@@ -11,7 +11,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/cdt/jeval.jar"/>
-	<classpathentry kind="lib" path="lib/cdt/log4j-1.2.16.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
